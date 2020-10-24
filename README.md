@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Uh oh my banner didn't load!](https://github.com/Cro5s/Cro5s/blob/main/assets/banner.png)
+![Uh oh my banner didn't load!](https://github.com/Cro5s/Cro5s/blob/main/assets/banner_edit.png)
 
 <!-- Social Shields -->
 <a href="https://www.linkedin.com/in/kadeem-jackson-4349348a/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -19,6 +19,14 @@
 I'm a Software Engineer who is passionate about building deliberate and impactful products. I have experience with designing, developing, and optimizing web applications. I'm comfortable working in both a self-directed environment as well as with a team. Some of the technologies I have experience with are Ruby, Ruby on Rails, React, Redux, Javascript, HTML5, CSS, and many more. I also enjoy working with both relational and nonrelational databases like PostgreSQL and MongoDB.
 
 When I'm not coding, I enjoy exploring creativity in fields like fashion and design, winding down with some games, and spending time with friends and family.
+
+- 🌱 I’m currently learning Typescript & Python
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=cro5s&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cro5s&hide=css,java,html&theme=tokyonight">
+</p>
+
 <!--
 **Cro5s/Cro5s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
