@@ -10,7 +10,8 @@
 <!-- Find a ton of other badges here! https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
 <!-- Github Visits -->
-[![Visits Badge](https://badges.pufler.dev/visits/cro5s/cro5s)](https://badges.pufler.dev)
+<!-- [![Visits Badge](https://badges.pufler.dev/visits/cro5s/cro5s)](https://badges.pufler.dev) -->
+<!-- [![Years Badge](https://badges.pufler.dev/years/cro5s)](https://badges.pufler.dev) -->
 <!-- <img src="https://badges.pufler.dev/visits/cro5s/cro5s"> -->
 
 <!-- The good stuff -->
