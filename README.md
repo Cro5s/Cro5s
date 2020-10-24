@@ -2,7 +2,7 @@
 ![Uh oh my banner didn't load!](https://github.com/Cro5s/Cro5s/blob/main/assets/banner.png)
 
 <!-- Social Shields -->
-<a href="https://www.linkedin.com/in/kadeem-jackson-4349348a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
+<a href="https://www.linkedin.com/in/kadeem-jackson-4349348a/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/deemyjackson/) 
 
 <!-- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](<a href="https://www.linkedin.com/in/kadeem-jackson-4349348a/" target="_blank" />)  -->
