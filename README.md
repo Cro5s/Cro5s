@@ -1,5 +1,7 @@
 ### Hello World 👋
+I'm a Software Engineer who is passionate about building deliberate and impactful products. I have experience with designing, developing, and optimizing web applications. I'm comfortable working in both a self-directed environment as well as with a team. Some of the technologies I have experience with are Ruby, Ruby on Rails, React, Redux, Javascript, HTML5, CSS, and many more. I also enjoy working with both relational and nonrelational databases like PostgreSQL and MongoDB.
 
+When I'm not coding, I enjoy exploring creativity in fields like fashion and design, winding down with some games, and spending time with friends and family.
 <!--
 **Cro5s/Cro5s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
