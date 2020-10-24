@@ -23,8 +23,8 @@ When I'm not coding, I enjoy exploring creativity in fields like fashion and des
 - 🌱 I’m currently learning Typescript & Python
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=cro5s&show_icons=true&count_private=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=9F55FF&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cro5s&hide=css,java,html&bg_color=000000&title_color=61DAFB&text_color=FFFFFF">
+  <img src = "https://github-readme-stats.vercel.app/api?username=cro5s&show_icons=true&count_private=true&custom_title=Kadeem's GitHub Stats&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=9F55FF">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cro5s&layout=compact&bg_color=000000&title_color=61DAFB&text_color=FFFFFF">
 </p>
 
 <!--
