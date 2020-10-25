@@ -1,3 +1,4 @@
+
 <!-- Banner -->
 ![Uh oh my banner didn't load!](https://github.com/Cro5s/Cro5s/blob/main/assets/banner_edit.png)
 
@@ -15,7 +16,7 @@
 <!-- <img src="https://badges.pufler.dev/visits/cro5s/cro5s"> -->
 
 <!-- The good stuff -->
-### Hello World 👋
+### Hello World 👋🏾 
 I'm a Software Engineer who is passionate about building deliberate and impactful products. I have experience with designing, developing, and optimizing web applications. I'm comfortable working in both a self-directed environment as well as with a team. Some of the technologies I have experience with are Ruby, Ruby on Rails, React, Redux, Javascript, HTML5, CSS, and many more. I also enjoy working with both relational and nonrelational databases like PostgreSQL and MongoDB.
 
 When I'm not coding, I enjoy exploring creativity in fields like fashion and design, winding down with some games, and spending time with friends and family.
@@ -27,6 +28,7 @@ When I'm not coding, I enjoy exploring creativity in fields like fashion and des
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cro5s&layout=compact&bg_color=000000&title_color=61DAFB&text_color=FFFFFF">
 </p>
 
+## 💻  Coding Habits
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
