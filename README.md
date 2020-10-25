@@ -1,4 +1,3 @@
-
 <!-- Banner -->
 ![Uh oh my banner didn't load!](https://github.com/Cro5s/Cro5s/blob/main/assets/banner_edit.png)
 
@@ -34,6 +33,7 @@ When I'm not coding, I enjoy exploring creativity in fields like fashion and des
 
 <!--END_SECTION:waka-->
 </details>
+
 <!--
 **Cro5s/Cro5s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
