@@ -31,11 +31,11 @@ When I'm not coding, I enjoy exploring creativity in fields like fashion and des
  <summary>💻 <b> Coding Habits</b>: </summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-71-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 818 Contributions in the Year 2020
+> 🏆 824 Contributions in the Year 2020
  > 
 > 📦 77.5 kB Used in Github's Storage 
  > 
@@ -72,7 +72,7 @@ Sunday       47 commits     █░░░░░░░░░░░░░░░░�
 
 ```text
 🔥 Editors: 
-VS Code                  3 hrs 4 mins        █████████████████████████   100.0%
+VS Code                  8 hrs 16 mins       █████████████████████████   100.0%
 
 ```
 
