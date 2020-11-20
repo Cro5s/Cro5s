@@ -35,7 +35,7 @@ When I'm not coding, I enjoy exploring creativity in fields like fashion and des
 
 **🐱 My Github Data** 
 
-> 🏆 861 Contributions in the Year 2020
+> 🏆 862 Contributions in the Year 2020
  > 
 > 📦 84.8 kB Used in Github's Storage 
  > 
@@ -72,7 +72,7 @@ Sunday       47 commits     █░░░░░░░░░░░░░░░░�
 
 ```text
 🔥 Editors: 
-VS Code                  2 hrs 46 mins       █████████████████████████   100.0%
+VS Code                  6 hrs 19 mins       █████████████████████████   100.0%
 
 ```
 
