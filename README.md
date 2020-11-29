@@ -39,7 +39,7 @@ When I'm not coding, I enjoy exploring creativity in fields like fashion and des
  > 
 > 💼 Opted to Hire
  > 
-> 📜 12 Public Repositories
+> 📜 13 Public Repositories
  > 
 > 🔑 7 Private Repositories 
 
@@ -70,7 +70,7 @@ Sunday       47 commits     █░░░░░░░░░░░░░░░░�
 
 ```text
 🔥 Editors: 
-VS Code                  7 hrs 2 mins        █████████████████████████   100.0%
+VS Code                  6 hrs 53 mins       █████████████████████████   100.0%
 
 ```
 
