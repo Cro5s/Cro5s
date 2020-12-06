@@ -35,15 +35,15 @@ When I'm not coding, I enjoy exploring creativity in fields like fashion and des
 
 **🐱 My Github Data** 
 
-> 🏆 876 Contributions in the Year 2020
+> 🏆 877 Contributions in the Year 2020
  > 
 > 📦 85.2 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 13 Public Repositories
+> 📜 13 Public Repositories 
  > 
-> 🔑 7 Private Repositories 
+> 🔑 7 Private Repositories  
 
 **I'm a Night 🦉** 
 
