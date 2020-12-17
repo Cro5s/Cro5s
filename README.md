@@ -37,14 +37,14 @@ When I'm not coding, I enjoy exploring creativity in fields like fashion and des
 
 > 🏆 893 Contributions in the Year 2020
  > 
-> 📦 85.4 kB Used in Github's Storage 
+> 📦 85.3 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
 > 📜 13 Public Repositories 
  > 
 > 🔑 7 Private Repositories  
-
+ > 
 **I'm a Night 🦉** 
 
 ```text
@@ -72,7 +72,7 @@ Sunday       47 commits     █░░░░░░░░░░░░░░░░�
 
 ```text
 🔥 Editors: 
-VS Code                  8 hrs 25 mins       █████████████████████████   100.0%
+VS Code                  5 hrs 53 mins       █████████████████████████   100.0%
 
 ```
 
