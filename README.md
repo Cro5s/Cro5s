@@ -31,11 +31,11 @@ When I'm not coding, I enjoy exploring creativity in fields like fashion and des
  <summary>💻 <b> Coding Habits</b>: </summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 47 Contributions in the Year 2021
+> 🏆 48 Contributions in the Year 2021
  > 
 > 📦 121.4 kB Used in Github's Storage 
  > 
@@ -49,8 +49,8 @@ When I'm not coding, I enjoy exploring creativity in fields like fashion and des
 
 ```text
 🌞 Morning    27 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.66% 
-🌆 Daytime    229 commits    ███████░░░░░░░░░░░░░░░░░░   31.03% 
-🌃 Evening    355 commits    ████████████░░░░░░░░░░░░░   48.1% 
+🌆 Daytime    230 commits    ███████░░░░░░░░░░░░░░░░░░   31.17% 
+🌃 Evening    354 commits    ████████████░░░░░░░░░░░░░   47.97% 
 🌙 Night      127 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.21%
 
 ```
@@ -59,8 +59,8 @@ When I'm not coding, I enjoy exploring creativity in fields like fashion and des
 ```text
 Monday       127 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.21% 
 Tuesday      131 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.75% 
-Wednesday    132 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.89% 
-Thursday     123 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+Wednesday    133 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.02% 
+Thursday     122 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.53% 
 Friday       115 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.58% 
 Saturday     57 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.72% 
 Sunday       53 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.18%
