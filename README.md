@@ -31,7 +31,7 @@ When I'm not coding, I enjoy exploring creativity in fields like fashion and des
  <summary>💻 <b> Coding Habits</b>: </summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My Github Data** 
 
@@ -72,7 +72,7 @@ Sunday       53 commits     █░░░░░░░░░░░░░░░░�
 
 ```text
 🔥 Editors: 
-VS Code                  9 hrs 59 mins       █████████████████████████   100.0%
+VS Code                  9 hrs 17 mins       █████████████████████████   100.0%
 
 ```
 
