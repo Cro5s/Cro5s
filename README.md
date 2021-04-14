@@ -20,7 +20,7 @@ I'm a Software Engineer who is passionate about building deliberate and impactfu
 
 When I'm not coding, I enjoy exploring creativity in fields like fashion and design, winding down with some games, and spending time with friends and family.
 
-- 🌱 I’m currently learning Typescript & Python
+- 🌱 I’m interested in learning Typescript & Python
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=cro5s&show_icons=true&count_private=true&custom_title=Kadeem's GitHub Stats&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=9F55FF">
