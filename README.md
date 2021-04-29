@@ -39,8 +39,6 @@ When I'm not coding, I enjoy exploring creativity in fields like fashion and des
  > 
 > 📦 122.9 kB Used in Github's Storage 
  > 
-> 💼 Opted to Hire
- > 
 > 📜 15 Public Repositories 
  > 
 > 🔑 7 Private Repositories  
