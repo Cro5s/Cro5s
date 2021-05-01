@@ -37,7 +37,7 @@ When I'm not coding, I enjoy exploring creativity in fields like fashion and des
 
 > 🏆 79 Contributions in the Year 2021
  > 
-> 📦 122.9 kB Used in Github's Storage 
+> 📦 123.1 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -72,7 +72,7 @@ Sunday       50 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 🔥 Editors: 
-VS Code                  22 hrs 17 mins      █████████████████████████   100.0%
+VS Code                  24 hrs 17 mins      █████████████████████████   100.0%
 
 ```
 
