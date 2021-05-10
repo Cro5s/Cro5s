@@ -37,7 +37,7 @@ When I'm not coding, I enjoy exploring creativity in fields like fashion and des
 
 > 🏆 80 Contributions in the Year 2021
  > 
-> 📦 123.1 kB Used in Github's Storage 
+> 📦 123.2 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
