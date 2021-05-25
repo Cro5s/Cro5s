@@ -33,13 +33,13 @@ When I'm not coding, I enjoy exploring creativity in fields like fashion and des
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-**🐱 My Github Data** 
+**My Github Data** 
 
 > 🏆 142 Contributions in the Year 2021
  > 
 > 📦 127.0 kB Used in Github's Storage 
  > 
-> 💼 Opted to Hire
+> 💼 Not Opted to Hire
  > 
 > 📜 15 Public Repositories 
  > 
