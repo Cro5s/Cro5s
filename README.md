@@ -16,77 +16,11 @@
 
 <!-- The good stuff -->
 ### Hello World 👋🏾 
-I'm a Software Engineer who is passionate about building deliberate and impactful products. I have experience with designing, developing, and optimizing web applications. I'm comfortable working in both a self-directed environment as well as with a team. Some of the technologies I have experience with are Ruby, Ruby on Rails, React, Redux, Javascript, HTML5, CSS, and many more. I also enjoy working with both relational and nonrelational databases like PostgreSQL and MongoDB.
+I'm a Software Engineer passionate about building deliberate and impactful products. I have experience with designing, developing, and optimizing web applications. I'm comfortable working in both a self-directed environment and with a team. Some of the technologies I have experience with are Ruby, Ruby on Rails, React, Redux, Javascript, HTML5, CSS, and many more. I also enjoy working with relational and nonrelational databases like PostgreSQL and MongoDB.
 
 When I'm not coding, I enjoy exploring creativity in fields like fashion and design, winding down with some games, and spending time with friends and family.
 
 - 🌱 I’m interested in learning Typescript & Python
-
-<details> 
- <summary>💻 <b> Coding Habits</b>: </summary>
-
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
-
-**My Github Data** 
-
-> 🏆 142 Contributions in the Year 2021
- > 
-> 📦 127.0 kB Used in Github's Storage 
- > 
-> 💼 Not Opted to Hire
- > 
-> 📜 15 Public Repositories 
- > 
-> 🔑 7 Private Repositories  
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    25 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.45% 
-🌆 Daytime    268 commits    █████████░░░░░░░░░░░░░░░░   37.02% 
-🌃 Evening    314 commits    ██████████░░░░░░░░░░░░░░░   43.37% 
-🌙 Night      117 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.16%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       175 commits    ██████░░░░░░░░░░░░░░░░░░░   24.17% 
-Tuesday      126 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.4% 
-Wednesday    111 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.33% 
-Thursday     110 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.19% 
-Friday       105 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.5% 
-Saturday     46 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.35% 
-Sunday       51 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.04%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🔥 Editors: 
-VS Code                  16 hrs 30 mins      █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               9 repos             ██████████░░░░░░░░░░░░░░░   42.86% 
-Ruby                     5 repos             ██████░░░░░░░░░░░░░░░░░░░   23.81% 
-Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.76% 
-Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.76%
-
-```
-
-
-
-<!--END_SECTION:waka-->
-
-</details>
 
 <!--
 **Cro5s/Cro5s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
