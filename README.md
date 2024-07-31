@@ -16,7 +16,7 @@
 
 <!-- The good stuff -->
 ### Hello World 👋🏾 
-I'm a Software Engineer passionate about building deliberate and impactful products. I have experience with designing, developing, and optimizing web applications. I'm comfortable working in both a self-directed environment and with a team. Some of the technologies I have experience with are Ruby, Ruby on Rails, React, Redux, Javascript, HTML5, CSS, and many more. I also enjoy working with relational and nonrelational databases like PostgreSQL and MongoDB.
+I'm a Software Engineer passionate about building deliberate and impactful products. I have experience with designing, developing, and optimizing web applications. I'm comfortable working in both a self-directed environment and with a team. Some of the technologies I have experience with are Ruby on Rails, React, Redux, Javascript, HTML5, CSS, and many more. I also enjoy working with relational and nonrelational databases like PostgreSQL and MongoDB.
 
 When I'm not coding, I enjoy exploring creativity in fields like fashion and design, winding down with some games, and spending time with friends and family.
 
