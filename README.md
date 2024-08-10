@@ -44,4 +44,4 @@ Here are some ideas to get you started:
 -->
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cro5s&layout=compact)
-[![Kadeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=cro5s&rank_icon=github&custom_title=Kadeem%27s+Github+Stats)](https://github.com/cro5s/github-readme-stats)
+[![Kadeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=cro5s&rank_icon=github&custom_title=Kadeem%27s+Github+Stats&ring_color=00FF00)](https://github.com/cro5s/github-readme-stats)
