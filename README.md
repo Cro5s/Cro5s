@@ -16,7 +16,7 @@
 [![Visits Badge](https://badges.pufler.dev/visits/cro5s/cro5s)](https://badges.pufler.dev)
 
 <!-- [![Years Badge](https://badges.pufler.dev/years/cro5s)](https://badges.pufler.dev) -->
-<img src="https://badges.pufler.dev/visits/cro5s/cro5s">
+<!-- <img src="https://badges.pufler.dev/visits/cro5s/cro5s"> -->
 
 <!-- The good stuff -->
 
@@ -43,5 +43,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Kadeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=cro5s)](https://github.com/cro5s/github-readme-stats)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cro5s&layout=compact)
+[![Kadeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=cro5s&rank_icon=github&custom_title=Kadeem%27s+Github+Stats)](https://github.com/cro5s/github-readme-stats)
