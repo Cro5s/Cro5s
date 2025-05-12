@@ -26,7 +26,7 @@ I'm a Software Engineer passionate about building deliberate and impactful produ
 
 When I'm not coding, I enjoy exploring creativity in fashion and design, winding down with some games, and spending time with friends and family. I also love to snowboard 🏂!
 
--   🌱 I’m currently learning Python & I'm interested in learning Typescript
+-   🌱 I’m currently learning Java, Python, & Typescript
 
 <!--
 **Cro5s/Cro5s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
